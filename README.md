@@ -358,8 +358,8 @@ def plot_graphs(history, metric):
 plot_graphs(history, "accuracy")
 plot_graphs(history, "loss")
 ```
-Name: Samyuktha S
-Register Number: 212222240089
+Name: M.Pranathi
+Register Number: 212222240064
 
 ## OUTPUT
 ### Loss, Accuracy Vs Iteration Plot

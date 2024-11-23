@@ -30,6 +30,9 @@ STEP 7:
 Evaluate the model's accuracy and loss, and plot the results to track performance over time.
 
 ## PROGRAM
+NAME:PRANATHI M
+
+REG NO : 212222240064
 
 ### Import necessary packages
 ```
